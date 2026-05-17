@@ -1371,3 +1371,10 @@ Entries:
   changes:
   - type: Tweak
     message: Карта meta была стандартизирована
+- id: 131
+  author: smiler009
+  time: '2026-05-17T18:25:33.904546+00:00'
+  pr: 1426
+  changes:
+  - type: Add
+    message: Возможность быстрого приёма когда вам что-то вкладывают в руку
