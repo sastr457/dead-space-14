@@ -2054,3 +2054,12 @@ Entries:
   changes:
   - type: Add
     message: Добавлены сухожилия наблюдателей в наблюдателя-ледокрыла
+- id: 194
+  author: RIP6100
+  time: '2026-05-27T08:59:41.203810+00:00'
+  pr: 1526
+  changes:
+  - type: Add
+    message: Баланс на карте Box
+  - type: Remove
+    message: Дисбаланс на карте Box
