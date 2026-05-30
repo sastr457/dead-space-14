@@ -21,7 +21,7 @@
       sprite: _Corvax/Clothing/Shoes/Specific/kim.rsi
 
 - type: entity
-  parent: ClothingShoesBase
+  parent: ClothingShoesBootsMagDeathSquad
   id: ClothingShoesCentcomBlack
   name: special operations officer shoes
   description: Leather, black, high-quality shoes, you can hardly find similar ones on the black market...
