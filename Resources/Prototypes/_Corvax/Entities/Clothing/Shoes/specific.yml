@@ -21,7 +21,7 @@
       sprite: _Corvax/Clothing/Shoes/Specific/kim.rsi
 
 - type: entity
-  parent: ClothingShoesBootsMagDeathSquad
+  parent: ClothingShoesBase
   id: ClothingShoesCentcomBlack
   name: special operations officer shoes
   description: Leather, black, high-quality shoes, you can hardly find similar ones on the black market...
@@ -30,6 +30,18 @@
       sprite: _DeadSpace/Clothing/Shoes/Boots/centcom_officer_black.rsi
     - type: Clothing
       sprite: _DeadSpace/Clothing/Shoes/Boots/centcom_officer_black.rsi
+    - type: Unremoveable
+    - type: NoSlip
+    - type: Magboots
+    - type: ClothingSpeedModifier
+      walkModifier: 1
+      sprintModifier: 1
+    - type: Appearance
+    - type: StaticPrice
+      price: 400
+    - type: ClothingGrantComponent
+      component: 
+        - type: RenegadeCANTRenegadeForce
 
 - type: entity
   parent: ClothingShoesBaseButcherable
