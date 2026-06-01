@@ -2342,3 +2342,10 @@ Entries:
   changes:
   - type: Add
     message: Теперь пирогомёт можно носить на спине.
+- id: 226
+  author: IvanKuvalda
+  time: '2026-06-01T13:18:51.100813+00:00'
+  pr: 1570
+  changes:
+  - type: Tweak
+    message: Иконки в хотбаре у демона-вестника by KerFroozy
