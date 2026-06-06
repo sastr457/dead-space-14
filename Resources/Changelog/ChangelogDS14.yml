@@ -2719,3 +2719,10 @@ Entries:
   changes:
   - type: Tweak
     message: КД у отбойного молотка НАМНОГО уменьшено
+- id: 267
+  author: IvanKuvalda
+  time: '2026-06-06T15:35:51.848773+00:00'
+  pr: 1638
+  changes:
+  - type: Tweak
+    message: Теперь, базальт не ломается от кирки в одной руке
