@@ -3151,3 +3151,16 @@ Entries:
       боргами!
   - type: Fix
     message: Взаимодействие пакета крови и химических слаймов.
+- id: 313
+  author: sastr457
+  time: '2026-06-13T11:06:22.257179+00:00'
+  pr: 1712
+  changes:
+  - type: Add
+    message: Собственные тактические очки для ОСЩ, собственный боевой противогаз и
+      боевые перчатки (made by sastr).
+  - type: Add
+    message: Собственный гипоспрей, на данный момент имеет такие же характеристики,
+      что и у боевого (made by sastr and urani).
+  - type: Tweak
+    message: Респрайт всей одежды ОСЩ (made by sastr and urani).
