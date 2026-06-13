@@ -240,13 +240,6 @@
     sprite: _DeadSpace/Sponsor/i750/gasmask.rsi
   - type: Clothing
     sprite: _DeadSpace/Sponsor/i750/gasmask.rsi
-  - type: HideLayerClothing
-    slots:
-    - Hair
-    - Snout
-    - HeadTop
-    - HeadSide
-    - FacialHair
   - type: Tag
     tags: [ ]
 
